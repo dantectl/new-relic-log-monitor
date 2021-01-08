@@ -35,4 +35,4 @@ sudo python3 log-setup.py
 ```
 
 
-Now, you can login to your New Relic account, visit the `Logs` tab, and within moments, your logs should begin generating. Feel free to build onto this script and add more log entries. A potential **use-case** for this would being able to automate the generation of log monitoring across a fleet of managed servers.
+Now, you can login to your New Relic account, visit the `Logs` tab, and within moments, your logs should begin generating. Feel free to build onto this script and add more log entries. A potential **use-case** for this is being able to automate the generation of log monitoring across a fleet of managed servers.
